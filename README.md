@@ -23,7 +23,7 @@ How do you run tests?
 
 Any tests of note?
 
-No test of note. 
+No test of note.
 
 Describe any tests that you did not complete, skipped, etc
 
